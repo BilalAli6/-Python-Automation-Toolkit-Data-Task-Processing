@@ -37,7 +37,7 @@ A versatile **Python automation toolkit** that helps you **organize files, proce
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/bilalali6/Python-Automation-Toolkit.git
+git clone https://github.com/BilalAli6/-Python-Automation-Toolkit-Data-Task-Processing/blob/main/automation_toolkit.py
 cd Python-Automation-Toolkit
 ````
 

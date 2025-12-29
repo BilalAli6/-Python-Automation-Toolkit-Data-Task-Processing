@@ -130,7 +130,4 @@ This project is open-source under the **MIT License**. Feel free to fork, use, i
 
 `Python` `Automation` `Data Processing` `Web Scraping` `Linux` `CSV` `JSON` `Utility Script` `Productivity`
 
-```
-
-
 

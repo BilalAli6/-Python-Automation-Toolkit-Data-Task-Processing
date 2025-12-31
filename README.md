@@ -122,7 +122,7 @@ This project is open-source under the **MIT License**. Feel free to fork, use, i
 **Muhammad Bilal Ali Saif**
 
 * GitHub: [@BilalAli6](https://github.com/BilalAli6)
-* LinkedIn: [Muhammad Bilal Ali Saif](https://www.linkedin.com/in/muhammad-bilal-ali-saif)
+* LinkedIn: [Muhammad Bilal Ali Saif](https://www.linkedin.com/in/muhammad-bilal-ali-saif-a160a6284/)
 
 ---
 
